@@ -1,0 +1,9 @@
+{
+    "game": {
+      "title": "Asteroids Defense",
+      "initial_lives": 3,
+      "screen_width": 800,
+      "screen_height": 600,
+      "fps": 60
+    }
+  }

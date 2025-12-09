@@ -1,0 +1,13 @@
+{
+  "sizes": {
+    "player_width": 50,
+    "player_height": 30,
+    "projectile_width": 8,
+    "projectile_height": 16,
+    "asteroid_sizes": {
+      "3": 50,
+      "2": 35,
+      "1": 20
+    }
+  }
+}
